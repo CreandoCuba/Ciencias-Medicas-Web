@@ -23,3 +23,9 @@ El objetivo principal es llevar a cabo el rediseño completo de la página web d
 ## Consideraciones Adicionales
 - Mantener una comunicación constante con el cliente para ajustar los requisitos según sus necesidades.
 - Realizar pruebas exhaustivas antes de lanzar la nueva versión.
+
+## Softwares necesarios
+- Para la actualizacion y mantenimiento del sitio es necesario acceder a las maquinas virtuales montadas en la universidad, estos son:
+1. Ubuntu Server version 22.0.4
+2.ProsMov
+- En caso de utilizar Wordpress para el desarrollo utilizar la version 6.2 para la compatibilidad
