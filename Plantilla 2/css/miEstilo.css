@@ -68,6 +68,10 @@
 .docencia-icon{
     color: #005187 !important;
     border:2px solid #005187 !important;
+    transition-duration: 0.5s !important;
+    height: 75px;
+    width: 75px;
+    padding: 0px 15px !important;
 }
 .docencia-card:hover > .docencia-icon{
     background-color: #005187;
@@ -76,6 +80,7 @@
 .facultad-image{
     height:  218.74px !important;
     width: 349.99px !important;
+    width: 100% !important;
 }
 .rectoria-icon{
     color: #fff !important;
@@ -146,7 +151,10 @@
 .color-copyright{
     color: #84b6f4 !important;
 }
-
+.blog-date:after{
+    color: #005187 !important;
+    border-color: transparent #005187 #005187 transparent;
+}
 .blog-date{
     background-color: #005187 !important;
 }
@@ -165,7 +173,7 @@
     color: #005187 !important;
     opacity: 80%;
     transition: ease;
-    transition-duration: 0.3s;
+    transition-duration: 1s;
 }
 
 .blog-header{
@@ -174,4 +182,17 @@
 
 .h2-vista {
     color: #005187 !important;
+}
+.dropdown-item:active{
+    background-color: #005187 !important;
+}
+.dropdown-item:hover{
+    background-color: #b2dafa;
+}
+.carousel-inner{
+    max-height: 900px !important;
+}
+.noticia-card{
+    min-height: 200px;
+    max-height: 500px;
 }
