@@ -217,3 +217,18 @@
 .card-image{
     height: 220px !important;
 }
+.extranjeros-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.extranjeros-lists{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 500px;
+    margin-right: 500px;
+}
