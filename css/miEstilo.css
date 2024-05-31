@@ -237,3 +237,8 @@
         height: 250px !important;
     }
 }
+@media  screen and (width <= 768px) {
+    .rectoria-image{
+        height: 310px !important;
+    }
+}
